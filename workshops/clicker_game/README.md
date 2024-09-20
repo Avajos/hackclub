@@ -149,6 +149,7 @@ This new line initializes a variable named `count` and sets its initial value to
     console.log(count)
 }} className="App">
 ```
+[Spacebar clicker](https://www.monkey-type.org/popular-tools/spacebar-clicker)
 
 Now let's see if everything works!
 
